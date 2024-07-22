@@ -1,0 +1,1 @@
+# manta-public-releases
